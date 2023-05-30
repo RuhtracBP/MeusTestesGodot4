@@ -1,0 +1,1050 @@
+[gd_scene load_steps=3 format=3 uid="uid://b5pol36pdpxgu"]
+
+[ext_resource type="Script" path="res://BG-origem.gd" id="1_8a47d"]
+[ext_resource type="Texture2D" uid="uid://dmpfdvrwplp3q" path="res://assets/Background/Green.png" id="2_vgcqp"]
+
+[node name="ParallaxBackground" type="ParallaxBackground"]
+script = ExtResource("1_8a47d")
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="."]
+motion_mirroring = Vector2(1280, 0)
+
+[node name="Green" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(32, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green2" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(96, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green3" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(160, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green4" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(224, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green5" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(288, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green6" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(32, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green7" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(96, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green8" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(160, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green9" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(224, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green10" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(288, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green11" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(32, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green12" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(96, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green13" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(160, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green14" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(224, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green15" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(288, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green16" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(32, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green17" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(96, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green18" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(160, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green19" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(224, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green20" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(288, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green21" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(32, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green22" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(96, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green23" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(160, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green24" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(224, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green25" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(288, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green26" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(352, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green27" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(352, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green28" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(352, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green29" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(352, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green30" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(416, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green31" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(416, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green32" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(416, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green33" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(416, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green34" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(480, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green35" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(480, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green36" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(480, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green37" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(480, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green38" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(544, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green39" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(608, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green40" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(672, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green41" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(736, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green42" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(800, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green43" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(544, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green44" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(608, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green45" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(672, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green46" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(736, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green47" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(800, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green48" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(544, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green49" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(608, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green50" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(672, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green51" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(736, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green52" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(800, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green53" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(544, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green54" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(608, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green55" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(672, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green56" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(736, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green57" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(800, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green58" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(544, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green59" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(608, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green60" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(672, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green61" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(736, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green62" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(800, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green63" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(864, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green64" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(864, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green65" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(864, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green66" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(864, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green67" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(928, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green68" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(928, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green69" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(928, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green70" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(928, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green71" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(992, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green72" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(992, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green73" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(992, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green74" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(992, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green75" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(32, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green76" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(96, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green77" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(160, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green78" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(224, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green79" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(288, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green80" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(32, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green81" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(96, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green82" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(160, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green83" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(224, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green84" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(288, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green85" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(32, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green86" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(96, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green87" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(160, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green88" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(224, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green89" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(288, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green90" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(32, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green91" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(96, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green92" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(160, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green93" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(224, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green94" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(288, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green95" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(32, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green96" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(96, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green97" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(160, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green98" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(224, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green99" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(288, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green100" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(352, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green101" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(352, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green102" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(352, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green103" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(352, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green104" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(416, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green105" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(416, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green106" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(416, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green107" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(416, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green108" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(480, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green109" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(480, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green110" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(480, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green111" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(480, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green112" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(544, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green113" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(608, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green114" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(672, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green115" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(736, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green116" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(800, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green117" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(544, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green118" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(608, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green119" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(672, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green120" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(736, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green121" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(800, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green122" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(544, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green123" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(608, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green124" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(672, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green125" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(736, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green126" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(800, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green127" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(544, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green128" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(608, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green129" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(672, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green130" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(736, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green131" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(800, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green132" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(544, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green133" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(608, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green134" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(672, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green135" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(736, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green136" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(800, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green137" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(864, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green138" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(864, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green139" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(864, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green140" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(864, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green141" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(928, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green142" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(928, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green143" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(928, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green144" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(928, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green145" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(992, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green146" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(992, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green147" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(992, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green148" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(992, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green149" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(32, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green150" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(32, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green151" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(32, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green152" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(32, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green153" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(96, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green154" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(96, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green155" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(96, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green156" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(96, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green157" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(160, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green158" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(160, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green159" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(160, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green160" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(160, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green161" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(224, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green162" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(224, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green163" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(224, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green164" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(224, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green165" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(288, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green166" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(288, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green167" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(288, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green168" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(288, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green169" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(352, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green170" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(352, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green171" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(352, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green172" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(352, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green173" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(416, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green174" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(416, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green175" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(416, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green176" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(416, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green177" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(480, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green178" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(480, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green179" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(480, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green180" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(480, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green181" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(544, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green182" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(544, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green183" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(544, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green184" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(544, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green185" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(608, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green186" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(608, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green187" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(608, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green188" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(608, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green189" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(672, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green190" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(672, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green191" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(672, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green192" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(672, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green193" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(736, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green194" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(736, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green195" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(736, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green196" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(736, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green197" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(800, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green198" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(800, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green199" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(800, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green200" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(800, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green201" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(864, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green202" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(864, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green203" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(864, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green204" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(864, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green205" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(928, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green206" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(928, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green207" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(928, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green208" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(928, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green209" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(992, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green210" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(992, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green211" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(992, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green212" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(992, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green213" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1056, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green214" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1056, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green215" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1056, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green216" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1056, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green217" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1120, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green218" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1120, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green219" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1120, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green220" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1120, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green221" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1184, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green222" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1184, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green223" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1184, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green224" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1184, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green225" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1248, 544)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green226" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1248, 608)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green227" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1248, 672)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green228" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1248, 736)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green229" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1056, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green230" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1056, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green231" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1056, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green232" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1056, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green233" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1120, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green234" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1120, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green235" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1120, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green236" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1120, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green237" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1184, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green238" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1184, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green239" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1184, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green240" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1184, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green241" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1248, 288)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green242" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1248, 352)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green243" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1248, 416)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green244" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1248, 480)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green245" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1056, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green246" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1056, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green247" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1056, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green248" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1056, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green249" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1120, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green250" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1120, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green251" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1120, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green252" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1120, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green253" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1184, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green254" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1184, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green255" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1184, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green256" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1184, 224)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green257" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1248, 32)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green258" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1248, 96)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green259" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1248, 160)
+texture = ExtResource("2_vgcqp")
+
+[node name="Green260" type="Sprite2D" parent="ParallaxLayer"]
+position = Vector2(1248, 224)
+texture = ExtResource("2_vgcqp")
