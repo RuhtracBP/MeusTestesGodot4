@@ -1,9 +1,16 @@
 2a60927148abd1d33b818b535e306557
-::res://::1685404258
+::res://::1685493115
+BG-origem.gd::GDScript::-1::1685406172::0::1::::<>ParallaxBackground<>::
+BG.gd::GDScript::-1::1685405631::0::1::::<>ParallaxBackground<>::
+BG.tscn::PackedScene::1199764648166933442::1685493056::0::1::::<><>::res://BG.gd<>uid://cmr0nihscrh8y<>uid://caquxb2gurky2
+BG_origem.tscn::PackedScene::4523922860005551236::1685493056::0::1::::<><>::res://BG-origem.gd<>uid://dmpfdvrwplp3q
+chicken.gd::GDScript::-1::1685491191::0::1::::<>CharacterBody2D<>::
+chicken.tscn::PackedScene::6936809957688943377::1685493056::0::1::::<><>::res://chicken.gd<>uid://cvyvn2p1vrnnv<>uid://v18ltnb2rc5y<>uid://cssh60p0tmcdb
 icon.svg::CompressedTexture2D::2362807971092602495::1685399502::1685399510::1::::<><>::
 main.gd::GDScript::-1::1685400266::0::1::::<>Node2D<>::
-main.tscn::PackedScene::6949992176703878816::1685404258::0::1::::<><>::res://main.gd
-world.tscn::PackedScene::7955714900943393364::1685404258::0::1::::<><>::uid://cti1qanmjlkit
+main.tscn::PackedScene::6949992176703878816::1685493056::0::1::::<><>::res://main.gd<>uid://b5pol36pdpxgu
+README.md::TextFile::-1::1685407495::0::1::::<><>::
+world.tscn::PackedScene::7955714900943393364::1685493056::0::1::::<><>::uid://cti1qanmjlkit<>uid://286jksa2bb2<>uid://b5pol36pdpxgu<>uid://c53iim8k6fao4
 ::res://assets/::1685400822
 ::res://assets/Background/::1685405134
 back.png::CompressedTexture2D::5651743484823151934::1685405133::1685405134::1::::<><>::
@@ -334,7 +341,8 @@ Idle.png::CompressedTexture2D::6499164822807171087::1685400707::1685400825::1:::
 ::res://assets/Traps/Trampoline/::1685400825
 Idle.png::CompressedTexture2D::7188662585917277786::1685400707::1685400825::1::::<><>::
 Jump (28x28).png::CompressedTexture2D::5246049925626503020::1685400707::1685400825::1::::<><>::
-::res://Player/::1685405243
-player.tscn::PackedScene::6124551653695855731::1685404522::0::1::::<><>::res://Player/player.gd<>uid://ch5xijhyw00mv<>uid://basu5viunfnpu<>uid://cdqhnumpt4ord<>uid://cb7hjyqrduijd<>uid://hg430qr4m8s6<>uid://l7gxcioqw7on<>uid://dhppa2j8udvgw
-player.gd::GDScript::-1::1685404256::0::1::::<>CharacterBody2D<>::
-BG.tscn::PackedScene::1199764648166933442::1685405270::0::1::::<><>::uid://cmr0nihscrh8y
+::res://Global/::1685493143
+Game.gd::GDScript::-1::1685493143::0::1::::<>Node<>::
+::res://Player/::1685493056
+player.gd::GDScript::-1::1685493054::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::6124551653695855731::1685493056::0::1::::<><>::res://Player/player.gd<>uid://ch5xijhyw00mv<>uid://basu5viunfnpu<>uid://cdqhnumpt4ord<>uid://cb7hjyqrduijd<>uid://hg430qr4m8s6<>uid://l7gxcioqw7on<>uid://dhppa2j8udvgw

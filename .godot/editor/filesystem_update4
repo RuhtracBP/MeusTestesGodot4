@@ -1,10 +1,10 @@
-res://main.tscn
-res://main.gd
 res://world.tscn
+res://main.tscn
 res://Player/player.tscn
-res://Player/player.gd
-res://Player/BG.tscn
 res://BG.tscn
-res://BG.gd
-res://BG-origem.gd
 res://BG_origem.tscn
+res://chicken.tscn
+res://chicken.gd
+res://Player/player.gd
+res://Global/Game.gd
+res://Global/Utils.gd
